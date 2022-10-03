@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  },
+  "name": "4_nodemon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT" ,
+
+  "scripts": {
+    "start": "nodemon ./index.js localhost:3000"
+  }
+}

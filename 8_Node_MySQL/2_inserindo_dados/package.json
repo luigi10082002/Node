@@ -1,5 +1,5 @@
 {
-  "name": "1_instalacao_MySQL",
+  "name": "2_inserindo_dados",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,6 +10,6 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "start": "nodemon ./index.js loclahost 3000"
+    "start": "nodemon ./index.js localhost:3000"
   }
 }
